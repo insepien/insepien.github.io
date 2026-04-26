@@ -23,7 +23,7 @@ repository               : "insepien/insepien.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cute.png"
+  avatar           : "cutelight.png"
   name             : "Ha My Do (Mya Do)"
   pronouns         : "she/her"  
   bio              : "Physics Ph.D. Student"
